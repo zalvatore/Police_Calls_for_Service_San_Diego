@@ -1,1 +1,0 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.092673, 32.737827]}, "properties": {"zipcode": 92105, "call_count": 3384}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.117881, 32.696716]}, "properties": {"zipcode": 92113, "call_count": 3061}}]}

@@ -1,0 +1,21 @@
+--constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.4.3/constraints-3.10.txt"
+apache-airflow[package-extra]
+apache-airflow-providers-amazon
+boto3
+SQLAlchemy-JSONField
+SQLAlchemy-Utils
+SQLAlchemy
+mypy-extensions
+mypy
+mysql-connector-python-rf
+pandas
+pyodbc
+tqdm
+SQLAlchemy
+PyMySQL
+requests
+types-PyMySQL
+apache-airflow-providers-mysql
+mysqlclient
+mysql-connector-python
+geopy

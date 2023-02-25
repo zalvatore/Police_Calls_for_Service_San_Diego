@@ -1,0 +1,11 @@
+,incident_num,date_time,day_of_week,address_number_primary,address_dir_primary,address_road_primary,address_sfx_primary,address_dir_intersecting,address_road_intersecting,address_sfx_intersecting,call_type,disposition,beat,priority,address_number_primary_str,Address
+33386,E23010035772,2023-01-25 23:23:53,4,9400,,MIRA MESA,BLV,,,,415,K,242,2,9400,"9400 MIRA MESA BLV San Diego, California"
+33387,E23010035773,2023-01-25 23:24:05,4,700,W,FIR,ST,,,,SELENF,U,528,3,700,"700 W FIR ST San Diego, California"
+33388,E23010035776,2023-01-25 23:26:58,4,1800,,HOTEL CIRCLE SOUTH,,,,,415N,K,623,3,1800,"1800 HOTEL CIRCLE SOUTH San Diego, California"
+33389,E23010035777,2023-01-25 23:27:25,4,900,,05TH,AVE,,,,911,K,523,1,900,"900 05TH AVE San Diego, California"
+33390,E23010035779,2023-01-25 23:29:00,4,9400,,MIRA MESA,BLV,,,,FD,K,242,2,9400,"9400 MIRA MESA BLV San Diego, California"
+33391,E23010035780,2023-01-25 23:29:01,4,0,,04TH,AVE,,E,,314,DUP,523,2,,"04TH AVE San Diego, California"
+33392,E23010035784,2023-01-25 23:37:22,4,800,,HOTEL CIRCLE SOUTH,,,,,1130,K,623,1,800,"800 HOTEL CIRCLE SOUTH San Diego, California"
+33393,E23010035785,2023-01-25 23:37:59,4,4000,,46TH,ST,,,,1146,K,831,0,4000,"4000 46TH ST San Diego, California"
+33394,E23010035786,2023-01-25 23:38:56,4,3700,,05TH,AVE,,,,459A,CAN,627,3,3700,"3700 05TH AVE San Diego, California"
+33395,E23010035789,2023-01-25 23:44:43,4,0,,EL CAJON,BLV,,40TH,,T,K,832,2,,"EL CAJON BLV San Diego, California"

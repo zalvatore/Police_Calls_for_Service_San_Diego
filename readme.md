@@ -15,7 +15,7 @@ We used multiple views in our database to help visualize the data and present it
 Requirements ->
 
 --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.4.3/constraints-3.10.txt"
-apache-airflow[package-extra]
+apache-airflow[package-extra] \n
 apache-airflow-providers-amazon
 boto3
 SQLAlchemy-JSONField

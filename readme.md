@@ -1,4 +1,4 @@
-SD PD Calls Data
+# SD PD Calls Data
 
 Source Files: http://seshat.datasd.org/pd/
 
@@ -12,26 +12,28 @@ That data is then accessed by the DASH App. Dash apps give a point-&-click inter
 
 We used multiple views in our database to help visualize the data and present it on the DASH. Some of those views are calls per zip code, to realize the most distressed location within San Diego. We can also visualize based on different dispositions and beats. 
 
-Requirements ->
+---
 
---constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.4.3/constraints-3.10.txt"
-apache-airflow[package-extra] \n
-apache-airflow-providers-amazon
-boto3
-SQLAlchemy-JSONField
-SQLAlchemy-Utils
-SQLAlchemy
-mypy-extensions
-mypy
-mysql-connector-python-rf
-pandas
-pyodbc
-tqdm
-SQLAlchemy
-PyMySQL
-requests
-types-PyMySQL
-apache-airflow-providers-mysql
-mysqlclient
-mysql-connector-python
-geopy
+ ## Requirements ->
+
+--constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.4.3/constraints-3.10.txt" <br>
+apache-airflow[package-extra] <br>
+apache-airflow-providers-amazon <br>
+boto3 <br>
+SQLAlchemy-JSONField <br>
+SQLAlchemy-Utils <br>
+SQLAlchemy <br>
+mypy-extensions <br>
+mypy <br>
+mysql-connector-python-rf <br>
+pandas <br>
+pyodbc <br>
+tqdm <br>
+SQLAlchemy <br>
+PyMySQL <br>
+requests <br>
+types-PyMySQL <br>
+apache-airflow-providers-mysql <br>
+mysqlclient <br>
+mysql-connector-python <br>
+geopy <br>
